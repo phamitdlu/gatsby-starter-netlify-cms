@@ -5,7 +5,7 @@ date: 2019-10-03T08:43:29.493Z
 description: >-
   Cơ quan chức năng đang xác minh thông tin Trung Quốc đưa giàn khoan nước sâu
   Hải Dương Thạch Du 982 tới Biển Đông, người phát ngôn Bộ Ngoại giao cho biết.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/haiyang-shiyou-982-1-8812-1570091421.webp
 tags:
   - Việt Nam xác minh Trung Quốc đưa giàn khoan tới Biển Đông
